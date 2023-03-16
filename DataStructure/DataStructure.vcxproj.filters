@@ -19,31 +19,40 @@
     <Filter Include="源文件\Test2">
       <UniqueIdentifier>{a4eb0c69-2871-486e-85b6-9a8705fcfcfd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Test3">
+      <UniqueIdentifier>{e7909893-ceac-46bd-a058-b7c0c108fc2d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\5.c">
+    <ClCompile Include="..\1.5.c">
       <Filter>源文件\Test1</Filter>
     </ClCompile>
-    <ClCompile Include="..\4.c">
+    <ClCompile Include="..\1.4.c">
       <Filter>源文件\Test1</Filter>
     </ClCompile>
-    <ClCompile Include="..\3.c">
+    <ClCompile Include="..\1.3.c">
       <Filter>源文件\Test1</Filter>
     </ClCompile>
-    <ClCompile Include="..\2.c">
+    <ClCompile Include="..\1.2.c">
       <Filter>源文件\Test1</Filter>
     </ClCompile>
-    <ClCompile Include="..\1.c">
+    <ClCompile Include="..\1.1.c">
       <Filter>源文件\Test1</Filter>
     </ClCompile>
     <ClCompile Include="problem.c">
       <Filter>源文件\Test2</Filter>
     </ClCompile>
-    <ClCompile Include="1.c">
+    <ClCompile Include="2.1.c">
       <Filter>源文件\Test2</Filter>
     </ClCompile>
-    <ClCompile Include="2.c">
+    <ClCompile Include="2.2.c">
       <Filter>源文件\Test2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.c">
+      <Filter>源文件\Test2</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.c">
+      <Filter>源文件\Test3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
